@@ -108,6 +108,15 @@ The web app allows users to:
 - Predict credit risk  
 - Display risk level with confidence score  
 
+## **Installation**
+
+```
+git clone https://github.com/hemamalini0708/Credit-Card-Risk-Prediction.git
+cd Credit-Card-Risk-Prediction
+pip install -r requirements.txt
+
+```
+
 ### Run Locally
 
 ```bash
@@ -151,3 +160,7 @@ Hema Malini Gangumalla
 Aspiring Data Scientist
 
 📧 hemamalinig07@gmail.com
+
+**License**
+
+MIT License
