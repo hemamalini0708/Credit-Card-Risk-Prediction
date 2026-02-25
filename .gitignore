@@ -1,0 +1,9 @@
+__pycache__/
+*.log
+.idea/
+*.pkl
+venv/
+data/
+logs/
+*.xlsx
+*.docx
